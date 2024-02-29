@@ -1,0 +1,1 @@
+In this repository, I've practiced c++ and solved problems to master the language. I'm Ifra Zaib, currently pursuing a BS in Artificial Intelligence from FAST National University, Faisalabad Campus. I've uploaded these c++ Practice Problems to facilitate a comprehensive approach to learning the c++ language.
